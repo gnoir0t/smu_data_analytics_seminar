@@ -1,0 +1,34 @@
+README file for the Grizli+Dynesty Demo.
+
+This repo contains the slides, notebook and associated data used for the Saint Mary's University Data Analytics Seminar Series of March 10, 2022.
+
+Seminar overview:
+Dr. Gaël Noirot & Dr. Vicente Estrada-Carpenter
+
+Grism spectroscopy for extragalactic astronomy, an how-to
+
+Grism spectroscopy is a very efficient way to obtain up to thousands of galaxy spectra in a single exposure. In this seminar, we will briefly review this observing mode and present reduction and analysis techniques of grism data through practical jupyter notebooks. We will present an introduction to using the grism redshift and line analysis software Grizli (https://grizli.readthedocs.io/en/latest/) as well as examples of spectral energy distribution fitting using both grizli and the optimized sampling algorithm dynesty (https://dynesty.readthedocs.io/en/latest/).
+
+
+This repo:
+
+Intro slides: DataAnalytics_SMU.pdf
+https://github.com/gnoir0t/smu_data_analytics_seminar/blob/main/DataAnalytics_SMU.pdf
+
+Jupyter Notebooks:
+1 - Vicente Estrada-Carpenter - Grism data reduction and analysis with Grizli
+https://github.com/Vince-ec/grizli_example/blob/master/grizli_example.ipynb
+
+2 - Gaël Noirot - SED fitting with Grizli and dynesty: grism2D_sed_fitting.ipynb
+https://github.com/gnoir0t/smu_data_analytics_seminar/blob/main/grism2D_sed_fitting.ipynb
+
+
+
+Additional useful resource:
+How to reduce JWST grism data using the official JWST reduction pipeline: https://github.com/gnoir0t/stsci_mos_workshop
+
+--
+2022 March 10 
+Gaël Noirot
+Postdoctoral Fellow
+Saint Mary's University
