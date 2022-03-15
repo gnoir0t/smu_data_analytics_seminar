@@ -21,6 +21,7 @@ https://github.com/Vince-ec/grizli_example/blob/master/grizli_example.ipynb
 
 2 - Gaël Noirot - SED fitting with Grizli and dynesty: grism2D_sed_fitting.ipynb
 https://github.com/gnoir0t/smu_data_analytics_seminar/blob/main/grism2D_sed_fitting.ipynb
+(Data used in the notebook taken in part from Noirot et al. 2022: https://arxiv.org/abs/2203.06185)
 
 
 
